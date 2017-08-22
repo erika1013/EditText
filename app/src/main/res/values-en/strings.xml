@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">EditText</string>
+<string name="str_nom">name</string>
+<string name="str_ape">last name</string>
+<string name="str_bnt">OK</string>
+</resources>

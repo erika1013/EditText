@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="str_nom">Nombre</string>
+    <string name="str_ape">Apellido</string>
+    <string name="str_bnt1">CancelarR</string>
+    <string name="app_n">Nombre</string>
+    <string name="app_a">Apellido</string>
+    <string name="app_name1">Edittext</string>
+    <string name="str_item1">Buscar</string>
+    <string name="str_item2">Configuracion</string>
+    <string name="app_c">Correo</string>
+    <string name="app_t">Telefono</string>
+    <string name="str_bntc">Aceptar</string>
+</resources>
